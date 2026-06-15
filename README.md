@@ -32,7 +32,7 @@ This project demonstrates data analysis techniques using the Pokémon dataset an
 
 ## Dataset
 
-Pokémon dataset containing (Gen 6):
+Pokémon dataset containing (Gen 1 - 6):
 - Pokédex Number
 - Name
 - Type 1 & Type 2
