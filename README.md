@@ -1,4 +1,4 @@
-<img width="1428" height="592" alt="image" src="https://github.com/user-attachments/assets/7289c3be-933d-41a5-be5e-047a50b485a6" /># Pokemon_dex-
+# Pokemon_dex
 A comprehensive Pokémon dataset analysis project using Pandas. Explores data cleaning, indexing, filtering, grouping, aggregation, and visualization techniques to uncover insights such as strongest Pokémon, rarest type combinations, generation-wise trends, and type-based statistics.
 # Pokémon Data Analysis with Pandas
 
