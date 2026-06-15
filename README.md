@@ -28,12 +28,11 @@ This project demonstrates data analysis techniques using the Pokémon dataset an
 - Python
 - Pandas
 - NumPy
-- Matplotlib
 - Jupyter Notebook
 
 ## Dataset
 
-Pokémon dataset containing:
+Pokémon dataset containing (Gen 6):
 - Pokédex Number
 - Name
 - Type 1 & Type 2
